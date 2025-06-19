@@ -83,10 +83,6 @@ include('../estructura/cabecera.php');
         </div>
     </div>
 
-
-
-                            
-
                         <!-- Paso 3: Método de Pago -->
                         <div class="step d-none" id="step3">
                             <h3 class="mb-4 text-dark"><span class="badge bg-dark me-2">3</span> Método de Pago</h3>
