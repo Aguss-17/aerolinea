@@ -1,0 +1,457 @@
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 9b29486bd727336d1f2d63146ce8701f0f8dd59b4d28d49646f363ead62620c4
+    [nombre] => ali
+    [email] => ali@gmail.com
+    [telefono] => 458987
+    [documento] => 11111111
+    [tipo_servicio] => hotel
+    [fecha_inicio] => 2025-06-19
+    [fecha_fin] => 2025-06-26
+    [destino_hotel] => cancun
+    [tipo_habitacion] => sencilla
+    [cantidad_habitaciones] => 1
+    [adultos_hotel] => 2
+    [ninos_hotel] => 0
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 9b29486bd727336d1f2d63146ce8701f0f8dd59b4d28d49646f363ead62620c4
+    [nombre] => ali
+    [email] => ali@gmail.com
+    [telefono] => 458987
+    [documento] => 11111111
+    [tipo_servicio] => hotel
+    [fecha_inicio] => 2025-06-19
+    [fecha_fin] => 2025-06-26
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Intentando redirigir a: /aerolinea/carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 9b29486bd727336d1f2d63146ce8701f0f8dd59b4d28d49646f363ead62620c4
+    [nombre] => ali
+    [email] => ali@gmail.com
+    [telefono] => 478968
+    [documento] => 11111111
+    [tipo_servicio] => vuelo
+    [fecha_inicio] => 2025-06-18
+    [fecha_fin] => 2025-06-26
+    [origen_vuelo] => buenos aires
+    [destino_vuelo] => cancun
+    [clase_vuelo] => economica
+    [pasajeros_vuelo] => 1
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 9b29486bd727336d1f2d63146ce8701f0f8dd59b4d28d49646f363ead62620c4
+    [nombre] => ali
+    [email] => ali@gmail.com
+    [telefono] => 458987
+    [documento] => 11111111
+    [tipo_servicio] => paquete
+    [fecha_inicio] => 2025-06-19
+    [fecha_fin] => 2025-06-27
+    [tipo_paquete] => aventura
+    [adultos_paquete] => 2
+    [ninos_paquete] => 0
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 940c5ab254a4075632dcdd88d8f8e9b6b290b2bf8c2ec6cd4db5ad6eb48a21e8
+    [nombre] => Agustina Montiel
+    [email] => AGUSMONTIEL2021@GMAIL.COM
+    [telefono] => 3775 506083
+    [documento] => 47422501
+    [tipo_servicio] => vuelo
+    [fecha_inicio] => 2025-06-28
+    [fecha_fin] => 2025-07-05
+    [origen_vuelo] => Ciudad de México
+    [destino_vuelo] => Madrid
+    [clase_vuelo] => premium
+    [pasajeros_vuelo] => 4
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 940c5ab254a4075632dcdd88d8f8e9b6b290b2bf8c2ec6cd4db5ad6eb48a21e8
+    [nombre] => Agustina Montiel
+    [email] => AGUSMONTIEL2021@GMAIL.COM
+    [telefono] => 3775 506083
+    [documento] => 47422501
+    [tipo_servicio] => hotel
+    [fecha_inicio] => 2025-07-05
+    [fecha_fin] => 2025-07-12
+    [destino_hotel] => Nueva York
+    [tipo_habitacion] => doble
+    [cantidad_habitaciones] => 2
+    [adultos_hotel] => 2
+    [ninos_hotel] => 0
+    [metodo_pago] => tarjeta
+    [numero_tarjeta] => 1234123412344444
+    [expiracion_tarjeta] => 12/25
+    [cvv_tarjeta] => 123
+    [nombre_tarjeta] => asdfghjklñ
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 990c94a9f96a7a014cf9d047d4caa44c3cc90dcf4d786d95044d1c99d21cbf82
+    [nombre] => Juan Pérez
+    [email] => juan.perez@example.com
+    [telefono] => 5551234567
+    [documento] => 12345678A
+    [tipo_servicio] => hotel
+    [fecha_inicio] => 2025-06-20
+    [fecha_fin] => 2025-06-27
+    [destino_hotel] => Nueva York
+    [tipo_habitacion] => sencilla
+    [cantidad_habitaciones] => 2
+    [adultos_hotel] => 2
+    [ninos_hotel] => 3
+    [metodo_pago] => tarjeta
+    [numero_tarjeta] => 1234 1234 1234 4444
+    [expiracion_tarjeta] => 12/28
+    [cvv_tarjeta] => 123
+    [nombre_tarjeta] => JUAN PEREZ
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 990c94a9f96a7a014cf9d047d4caa44c3cc90dcf4d786d95044d1c99d21cbf82
+    [nombre] => Juan Pérez
+    [email] => juan.perez@example.com
+    [telefono] => 5551234567
+    [documento] => 12345678A
+    [tipo_servicio] => vuelo
+    [fecha_inicio] => 2025-06-28
+    [fecha_fin] => 2025-07-05
+    [origen_vuelo] => Buenos Aires
+    [destino_vuelo] => Nueva York
+    [clase_vuelo] => economica
+    [pasajeros_vuelo] => 2
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 990c94a9f96a7a014cf9d047d4caa44c3cc90dcf4d786d95044d1c99d21cbf82
+    [nombre] => Agustina Montiel
+    [email] => AGUSMONTIEL2021@GMAIL.COM
+    [telefono] => 3775 506083
+    [documento] => 47422501
+    [tipo_servicio] => paquete
+    [fecha_inicio] => 2025-06-21
+    [fecha_fin] => 2025-06-28
+    [tipo_paquete] => aventura
+    [adultos_paquete] => 2
+    [ninos_paquete] => 4
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 07acab355a06b286b8163e1b8e9f7dd9115d0feb3624af596fb09d2a64113ac7
+    [nombre] => Agustina Montiel
+    [email] => AGUSMONTIEL2021@GMAIL.COM
+    [telefono] => 3775 506083
+    [documento] => 47422501
+    [tipo_servicio] => hotel
+    [fecha_inicio] => 2025-06-21
+    [fecha_fin] => 2025-06-28
+    [destino_hotel] => Nueva York
+    [tipo_habitacion] => doble
+    [cantidad_habitaciones] => 1
+    [adultos_hotel] => 2
+    [ninos_hotel] => 3
+    [metodo_pago] => tarjeta
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 07acab355a06b286b8163e1b8e9f7dd9115d0feb3624af596fb09d2a64113ac7
+    [nombre] => Agustina Montiel
+    [email] => AGUSMONTIEL2021@GMAIL.COM
+    [telefono] => 3775 506083
+    [documento] => 47422501
+    [tipo_servicio] => vuelo
+    [fecha_inicio] => 2025-06-20
+    [fecha_fin] => 2025-06-27
+    [origen_vuelo] => Buenos Aires
+    [destino_vuelo] => Madrid
+    [clase_vuelo] => economica
+    [pasajeros_vuelo] => 1
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 07acab355a06b286b8163e1b8e9f7dd9115d0feb3624af596fb09d2a64113ac7
+    [nombre] => Agustina Montiel
+    [email] => AGUSMONTIEL2021@GMAIL.COM
+    [telefono] => 3775 506083
+    [documento] => 47422501
+    [tipo_servicio] => vuelo
+    [fecha_inicio] => 2025-06-20
+    [fecha_fin] => 2025-06-27
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 07acab355a06b286b8163e1b8e9f7dd9115d0feb3624af596fb09d2a64113ac7
+    [nombre] => Agustina Montiel
+    [email] => AGUSMONTIEL2021@GMAIL.COM
+    [telefono] => 3775 506083
+    [documento] => 47422501
+    [tipo_servicio] => vuelo
+    [fecha_inicio] => 2025-06-28
+    [fecha_fin] => 2025-07-05
+    [origen_vuelo] => Buenos Aires
+    [destino_vuelo] => Madrid
+    [clase_vuelo] => economica
+    [pasajeros_vuelo] => 1
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 07acab355a06b286b8163e1b8e9f7dd9115d0feb3624af596fb09d2a64113ac7
+    [nombre] => Agustina Montiel
+    [email] => AGUSMONTIEL2021@GMAIL.COM
+    [telefono] => 3775 506083
+    [documento] => 47422501
+    [tipo_servicio] => hotel
+    [fecha_inicio] => 2025-06-21
+    [fecha_fin] => 2025-07-05
+    [destino_hotel] => Nueva York
+    [tipo_habitacion] => sencilla
+    [cantidad_habitaciones] => 1
+    [adultos_hotel] => 2
+    [ninos_hotel] => 0
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 07acab355a06b286b8163e1b8e9f7dd9115d0feb3624af596fb09d2a64113ac7
+    [nombre] => Agustina Montiel
+    [email] => AGUSMONTIEL2021@GMAIL.COM
+    [telefono] => 3775 506083
+    [documento] => 47422501
+    [tipo_servicio] => hotel
+    [fecha_inicio] => 2025-06-21
+    [fecha_fin] => 2025-06-28
+    [destino_hotel] => Nueva York
+    [tipo_habitacion] => sencilla
+    [cantidad_habitaciones] => 1
+    [adultos_hotel] => 2
+    [ninos_hotel] => 0
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 07acab355a06b286b8163e1b8e9f7dd9115d0feb3624af596fb09d2a64113ac7
+    [nombre] => Juan Pérez
+    [email] => AGUSMONTIEL2021@GMAIL.COM
+    [telefono] => 3775 506083
+    [documento] => 11111111
+    [tipo_servicio] => auto
+    [fecha_inicio] => 2025-06-28
+    [fecha_fin] => 2025-07-05
+    [lugar_retiro] => Buenos Aires
+    [lugar_devolucion] => Córdoba 
+    [tipo_auto] => economico
+    [edad_conductor] => 25
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 07acab355a06b286b8163e1b8e9f7dd9115d0feb3624af596fb09d2a64113ac7
+    [nombre] => Juan Pérez
+    [email] => juan.perez@example.com
+    [telefono] => 5551234567
+    [documento] => 12345678A
+    [tipo_servicio] => hotel
+    [fecha_inicio] => 2025-06-21
+    [fecha_fin] => 2025-06-28
+    [destino_hotel] => Nueva York
+    [tipo_habitacion] => sencilla
+    [cantidad_habitaciones] => 1
+    [adultos_hotel] => 2
+    [ninos_hotel] => 0
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 07acab355a06b286b8163e1b8e9f7dd9115d0feb3624af596fb09d2a64113ac7
+    [nombre] => Agustina Montiel
+    [email] => AGUSMONTIEL2021@GMAIL.COM
+    [telefono] => 3775 506083
+    [documento] => 47422501
+    [tipo_servicio] => vuelo
+    [fecha_inicio] => 2025-06-28
+    [fecha_fin] => 2025-07-05
+    [origen_vuelo] => Ciudad de México
+    [destino_vuelo] => Madrid
+    [clase_vuelo] => premium
+    [pasajeros_vuelo] => 1
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 07acab355a06b286b8163e1b8e9f7dd9115d0feb3624af596fb09d2a64113ac7
+    [nombre] => Agustina Montiel
+    [email] => AGUSMONTIEL2021@GMAIL.COM
+    [telefono] => 3775 506083
+    [documento] => 47422501
+    [tipo_servicio] => hotel
+    [fecha_inicio] => 2025-06-21
+    [fecha_fin] => 2025-06-28
+    [destino_hotel] => Nueva York
+    [tipo_habitacion] => doble
+    [cantidad_habitaciones] => 1
+    [adultos_hotel] => 2
+    [ninos_hotel] => 0
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php
+Datos POST recibidos:
+Array
+(
+    [csrf_token] => 07acab355a06b286b8163e1b8e9f7dd9115d0feb3624af596fb09d2a64113ac7
+    [nombre] => Agustina Montiel
+    [email] => AGUSMONTIEL2021@GMAIL.COM
+    [telefono] => 3775 506083
+    [documento] => 47422501
+    [tipo_servicio] => vuelo
+    [fecha_inicio] => 2025-06-21
+    [fecha_fin] => 2025-06-28
+    [origen_vuelo] => Buenos Aires
+    [destino_vuelo] => Madrid
+    [clase_vuelo] => economica
+    [pasajeros_vuelo] => 3
+    [metodo_pago] => transferencia
+    [numero_tarjeta] => 
+    [expiracion_tarjeta] => 
+    [cvv_tarjeta] => 
+    [nombre_tarjeta] => 
+)
+
+Redirigiendo a carrito.php

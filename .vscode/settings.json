@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+    "**/vendor": true,
+    "**/composer.json": true,
+    "**/composer.lock": true
+    }
+}
