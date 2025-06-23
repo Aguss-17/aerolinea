@@ -25,13 +25,13 @@ if (!isset($_SESSION['usuario']) || $_SESSION['usuario'] !== "ok") {
 
 <body>
 
-    <?php $url = "http://" . $_SERVER['HTTP_HOST'] . "/aerolinea"; ?>
+    <?php $url = "http://" . $_SERVER['HTTP_HOST']; ?>
 
     <!-- Navbar Principal -->
     <nav class="navbar navbar-light bg-light navbar-expand-lg">
         <div class="container-fluid d-flex align-items-center">
             <a class="navbar-brand me-3" href="<?php echo $url; ?>/index.php">
-                <img src="/aerolinea/img/logosinfondo.png" width="100" alt="Logo Aerolux Industry" title="Volver al inicio">
+                <img src="/img/logosinfondo.png" width="100" alt="Logo Aerolux Industry" title="Volver al inicio">
             </a>
             <form action="buscar.php" method="GET" class="d-flex align-items-center flex-grow-1" role="search" style="max-width: 50%;">
                 <input class="form-control me-2" type="text" name="busqueda" placeholder="Buscar" required>
