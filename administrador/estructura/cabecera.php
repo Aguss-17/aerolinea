@@ -54,7 +54,7 @@ if (!isset($_SESSION['usuario']) || $_SESSION['usuario'] !== "ok") {
             <div class="collapse navbar-collapse w-100" id="navbarNavDropdown">
                 <div class="d-flex justify-content-center flex-wrap w-100 gap-3 py-2">
                     <!-- Botón de alojamiento -->
-                    <a href="<?php echo $url; ?>/menu/alojamiento.php"
+                    <a href="<?php echo $url; ?>/seccion/alojamiento.php"
                         class="btn btn-outline-secondary d-flex flex-column align-items-center justify-content-center p-3"
                         style="width: 80px; height: 80px;">
                         <i class="bi bi-house-fill" style="font-size: 1.8rem;"></i>
@@ -62,23 +62,15 @@ if (!isset($_SESSION['usuario']) || $_SESSION['usuario'] !== "ok") {
                     </a>
 
                     <!-- Botón de vuelos -->
-                    <a href="<?php echo $url; ?>/menu/vuelos.php"
+                    <a href="<?php echo $url; ?>/seccion/vuelos.php"
                         class="btn btn-outline-secondary d-flex flex-column align-items-center justify-content-center p-3"
                         style="width: 80px; height: 80px;">
                         <i class="bi bi-airplane-engines-fill" style="font-size: 1.8rem;"></i>
                         <span class="mt-1" style="font-size: 0.8rem;">Vuelos</span>
                     </a>
 
-                    <!-- Botón de ofertas -->
-                    <a href="<?php echo $url; ?>/menu/ofertas.php"
-                        class="btn btn-outline-secondary d-flex flex-column align-items-center justify-content-center p-3"
-                        style="width: 80px; height: 80px;">
-                        <i class="bi bi-fire" style="font-size: 1.8rem;"></i>
-                        <span class="mt-1" style="font-size: 0.8rem;">Ofertas</span>
-                    </a>
-
                     <!-- Botón de paquetes -->
-                    <a href="<?php echo $url; ?>/menu/paquetes.php"
+                    <a href="<?php echo $url; ?>/seccion/paquetes.php"
                         class="btn btn-outline-secondary d-flex flex-column align-items-center justify-content-center p-3"
                         style="width: 80px; height: 80px;">
                         <i class="bi bi-bag-fill" style="font-size: 1.8rem;"></i>
@@ -86,7 +78,7 @@ if (!isset($_SESSION['usuario']) || $_SESSION['usuario'] !== "ok") {
                     </a>
 
                     <!-- Botón de autos -->
-                    <a href="<?php echo $url; ?>/menu/autos.php"
+                    <a href="<?php echo $url; ?>/seccion/autos.php"
                         class="btn btn-outline-secondary d-flex flex-column align-items-center justify-content-center p-3"
                         style="width: 80px; height: 80px;">
                         <i class="bi bi-car-front-fill" style="font-size: 1.8rem;"></i>
