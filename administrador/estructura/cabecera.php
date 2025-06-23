@@ -25,7 +25,7 @@ if (!isset($_SESSION['usuario']) || $_SESSION['usuario'] !== "ok") {
 
 <body>
 
-    <?php $url = "http://" . $_SERVER['HTTP_HOST']; ?>
+    <?php $url = "http://" . $_SERVER['HTTP_HOST'] . "</aerolinea"; ?>
 
     <!-- Navbar Principal -->
     <nav class="navbar navbar-light bg-light navbar-expand-lg">
